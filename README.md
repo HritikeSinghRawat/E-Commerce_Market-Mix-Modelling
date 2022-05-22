@@ -11,9 +11,7 @@ Imagine that you are a part of the marketing team working on budget optimisation
 
  
 
-You can download the dataset from this link:
-[[https://drive.google.com/drive/folders/1F5O1thcC43zAPxsWIw1WQMh58Qi5I5CB?usp=sharing](https://drive.google.com/drive/folders/1LMU-jl0DgV4qcQKuO9P-R9Asd1_pexmV)
-](https://drive.google.com/drive/folders/1LMU-jl0DgV4qcQKuO9P-R9Asd1_pexmV)
+You can download the dataset from this link: [https://drive.google.com/drive/folders/1LMU-jl0DgV4qcQKuO9P-R9Asd1_pexmV]
  
 
 Data Understanding
